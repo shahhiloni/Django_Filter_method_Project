@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Luxury Apartment",
+        "price": 25000,
+        "category": "2BHK",
+        "area": "Navrangpura",
+        "furnished": "Fully Furnished"
+    },
+    {
+        "id": 2,
+        "name": "Modern Flat",
+        "price": 18000,
+        "category": "1BHK",
+        "area": "Satellite",
+        "furnished": "Semi Furnished"
+    },
+    {
+        "id": 3,
+        "name": "Premium Apartment",
+        "price": 35000,
+        "category": "3BHK",
+        "area": "Bodakdev",
+        "furnished": "Fully Furnished"
+    },
+    {
+        "id": 4,
+        "name": "Affordable Flat",
+        "price": 15000,
+        "category": "1BHK",
+        "area": "Vastrapur",
+        "furnished": "Unfurnished"
+    },
+    {
+        "id": 5,
+        "name": "Family Apartment",
+        "price": 28000,
+        "category": "2BHK",
+        "area": "Thaltej",
+        "furnished": "Semi Furnished"
+    }
+]
